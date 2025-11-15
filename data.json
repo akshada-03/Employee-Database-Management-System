@@ -1,0 +1,50 @@
+[
+    {
+        "id": 2001,
+        "imageUrl": "https://via.placeholder.com/150",
+        "firstName": "Rohan",
+        "lastName": "Deshmukh",
+        "email": "rohan.deshmukh@example.com",
+        "contactNumber": "9876543210",
+        "age": 27,
+        "dob": "12/05/1998",
+        "salary": 45000,
+        "address": "Pune, Maharashtra"
+    },
+    {
+        "id": 2002,
+        "imageUrl": "https://via.placeholder.com/150",
+        "firstName": "Sneha",
+        "lastName": "Kulkarni",
+        "email": "sneha.kulkarni@example.com",
+        "contactNumber": "9865321470",
+        "age": 32,
+        "dob": "18/11/1992",
+        "salary": 52000,
+        "address": "Nashik, Maharashtra"
+    },
+    {
+        "id": 2003,
+        "imageUrl": "https://via.placeholder.com/150",
+        "firstName": "Amit",
+        "lastName": "Patil",
+        "email": "amit.patil@example.com",
+        "contactNumber": "9123456780",
+        "age": 29,
+        "dob": "03/03/1996",
+        "salary": 48000,
+        "address": "Mumbai, Maharashtra"
+    },
+    {
+        "id": 2004,
+        "imageUrl": "https://via.placeholder.com/150",
+        "firstName": "Priya",
+        "lastName": "Shinde",
+        "email": "priya.shinde@example.com",
+        "contactNumber": "9012345678",
+        "age": 25,
+        "dob": "21/09/2000",
+        "salary": 39000,
+        "address": "Kolhapur, Maharashtra"
+    }
+]
