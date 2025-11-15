@@ -25,5 +25,3 @@ Example screenshots:
 
 ---
 
-## 📂 Folder Structure
-
